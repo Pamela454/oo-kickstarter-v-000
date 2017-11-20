@@ -1,6 +1,6 @@
 class Backer
 
-  def initialization
+  def initialization(name)
   end
 
 end
