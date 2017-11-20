@@ -1,5 +1,5 @@
 class Backer
-  attr_accessor :name
+  attr_reader :name
 
   def initialization(name)
     @name
