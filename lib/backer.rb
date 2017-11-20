@@ -1,6 +1,6 @@
 class Backer
 
-def initialization
-end
+  def initialization
+  end
 
 end
